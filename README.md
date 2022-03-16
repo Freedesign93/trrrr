@@ -15,6 +15,11 @@
     <img src="https://badgen.net/badge/Gatsby/2.23.12/purple" alt="Gatsby version" />
   </a>
   
+   <a href="https://github.com/Freedesign93/trrrr/pulls">
+     <img src="https://badgen.net/github/prs/Freedesign93/trrrr" alt="Pull Request Amount">
+   </a>
+   <img src="https://badgen.net/github/last-commit/Freedesign93/trrrr" alt="Last commit date" />
+    
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue" alt="License">
   </a>
